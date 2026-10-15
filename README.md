@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2ea32634-09a4-49a7-ab0c-041ec2aef53f" /># Flagship
+# Flagship
 
 **An open-source feature flag service with a TypeScript SDK.**
 
