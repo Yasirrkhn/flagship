@@ -1,0 +1,7 @@
+packages:
+  - evaluator
+  - api
+  - sdk-node
+
+onlyBuiltDependencies:
+  - esbuild
