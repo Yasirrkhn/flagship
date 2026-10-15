@@ -64,7 +64,7 @@ The directory names above describe the intended package layout. Check your works
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Yasirrkhn/flagship.git
 cd flagship
 ```
 
